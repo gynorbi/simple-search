@@ -1,3 +1,5 @@
+### Status
+[![Build Status](https://travis-ci.org/gynorbi/simple-search.svg?branch=master)](https://travis-ci.org/gynorbi/simple-search)
 ### General Info `<simple-search>`
 
 `<simple-search>` shows a search input area on your page.
